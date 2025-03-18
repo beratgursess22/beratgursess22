@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm İbrahim Berat Gürses</h1>
-<h3 align="center">I'm a student of Industrial and Software Engineering at istinye university and 42İstanbul</h3>
+<h3 align="center">I study Industrial and Software Engineering at İstinye University and 42 İstanbul.</h3>
 
 - 🔭 I’m currently working on **C**
 
