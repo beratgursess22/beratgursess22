@@ -1,4 +1,4 @@
-[![MasterHead](http:file:///Users/ibrahimberatgurses/Desktop/1689088423333_ee2dbf32a462b255f74027782acd6644.jpeg)
+[![MasterHead](http://Users/ibrahimberatgurses/Desktop/1689088423333_ee2dbf32a462b255f74027782acd6644.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm İbrahim Berat Gürses</h1>
