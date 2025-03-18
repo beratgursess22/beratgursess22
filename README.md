@@ -1,4 +1,4 @@
-[![MasterHead](https://replit.com/@Dei-IssacIssac/Hello-Batman)
+[![MasterHead](https://replit.com/@Dei-IssacIssac/Hello-Batman#main.py)
 
 
 <h1 align="center">Hi 👋, I'm İbrahim Berat Gürses</h1>
