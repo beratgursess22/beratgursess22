@@ -1,5 +1,3 @@
-[![MasterHead](https://replit.com/@Dei-IssacIssac/Hello-Batman#main.py)
-
 
 <h1 align="center">Hi 👋, I'm İbrahim Berat Gürses</h1>
 <h3 align="center">I'm a student of Industrial and Software Engineering at istinye university and 42İstanbul</h3>
