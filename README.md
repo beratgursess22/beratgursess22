@@ -1,4 +1,3 @@
-   [![MasterHead](http://media.licdn.com/dms/image/v2/C4D16AQGinqKTWc2HBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645741964559?e=1747872000&v=beta&t=ApX5Fohsxc7emXJWd5T-y9kac06Etp-pEx7OFA_lsHw)
  
 <h1 align="center">Hi 👋, I'm İbrahim Berat Gürses</h1>
 <h3 align="center">I study Industrial and Software Engineering at İstinye University and 42 İstanbul.</h3>
