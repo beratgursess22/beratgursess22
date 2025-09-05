@@ -1,12 +1,13 @@
- 
 <h1 align="center">Hi 👋, I'm İbrahim Berat Gürses</h1>
-<h3 align="center">I study Industrial and Software Engineering at İstinye University and 42 İstanbul.</h3>
 
-- 🔭 I’m currently working on **C**, **C#**
+<p align="center">
+  Selam! Türkiye çapında çabalayıp başarılı olmaya çalışan bir <b>hiç kimseyim</b>. 
+  Aramızda kalsın: <i>hiçbir şey bilmiyorum</i> — ama öğrenmek için deli gibi uğraşıyorum. 🚀
+</p>
 
-- 🌱 I’m currently learning **C, Simio,**
-
-- 📫 How to reach me **gursesberat0@gmail.com**
+- 🔭 Şu an uğraştıklarım: C, C#
+- 🌱 Öğrenmeye çalıştıklarım: C, Simio
+- 📬 Bana ulaş: gursesberat0@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
