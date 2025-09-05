@@ -1,4 +1,3 @@
-<h1 align="center">Hi</h1>
 
 <p align="center">
   Hello! I'm a <b>nobody</b> trying to make it on a global stage.  
