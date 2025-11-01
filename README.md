@@ -1,9 +1,4 @@
 
-<p align="center">
-  Hello! I'm a <b>nobody</b> trying to make it on a global stage.  
-  Between us: <i>I know nothing</i>
-</p>
-
 - 🔭 I’m currently working on: **C, C#**  
 - 🌱 I’m currently learning: **C, Simio**  
 - 📬 How to reach me: **gursesberat0@gmail.com**
